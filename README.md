@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm </b><br> <a href = "https://canary.discord.com/channels/@me/988205125149532211">
+  <b>Hi 👋, I'm Draco <b> <br>
   <a href="https://discord.gg/draco">Discord</a> |
   <a href="https://www.instagram.com/dracoempty/">Instagram</a> 
 
