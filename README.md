@@ -1,4 +1,5 @@
 <p align='center'>
+<a href="https://discord.gg/draco">Discord</a> |
   <b>Hi 👋, I'm Draco <b> <br>
   <a href="https://discord.gg/draco">Discord</a> |
   <a href="https://www.instagram.com/dracoempty/">Instagram</a> 
