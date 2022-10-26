@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
     
 <img align="center" alt="vsc-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="vsc-vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-     <img align="center" alt="vsc-vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/vscode-original.svg">
+     <img align="center" alt="vsc-vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br/>
  
 <div> 
